@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaw27
-- 👀 I’m interested in learning more in the IT industry
+- 👀 I’m interested in learning and gathering lots and lots of experience related to IT works
 - 🌱 I’m currently learning Cypress for automated testing
 - 💞️ I’m looking to collaborate on/with people who do Manual and Automated testing
 - 📫 How to reach me: suriaga70@gmail.com or via: 09063241316
