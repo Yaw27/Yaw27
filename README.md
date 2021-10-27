@@ -50,11 +50,7 @@ March 2012 - November 2018
 -Provides computer access and instructions for newly hired employees
 -Providing step by step instructions to employees placing their hardware and software requests
 
-PROJECTS HANDLED
-
-Haelthtech:
-
--- Prudential (JKT)
+//PROJECTS HANDLED (Software Engineering Company)
 
 Guerilla360 Integrated Solutions:
 
@@ -66,6 +62,16 @@ Guerilla360 Integrated Solutions:
 -- AquaMundo (PH) / Part time / QA
 -- Resurface (USA) / Full time / QA/BA/PM
 -- Mclinica (JKT) / Full time / QA/BA/BRM
+
+Haelthtech Philippines:
+
+-- Prudential (JKT)
+
+//ACCOUNT HANDLED (BPO Industry)
+
+Genpact:
+
+-- WellsFargo Technology Connection (Technical Support Specialist 2)
 
 
 
