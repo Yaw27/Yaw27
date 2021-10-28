@@ -65,13 +65,13 @@ Guerilla360 Integrated Solutions:
 
 Haelthtech Philippines:
 
--- Prudential (JKT)
+-- Prudential (JKT) / Full time / QA
 
 //ACCOUNT HANDLED (BPO Industry)
 
 Genpact:
 
--- WellsFargo Technology Connection (Technical Support Specialist 2)
+-- WellsFargo Technology Connection (USA) / Full time  / Technical Support Specialist 2
 
 
 
