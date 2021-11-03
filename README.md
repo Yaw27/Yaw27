@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yaw27
+- 👋 Hi, I’m Yaw Suriaga
 - 👀 I’m interested in learning and gathering lots and lots of experience related to IT works
 - 🌱 I’m currently learning Cypress for automated testing
 - 💞️ I’m looking to collaborate on/with people who do Manual and Automated testing
